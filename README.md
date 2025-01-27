@@ -71,7 +71,7 @@ AtliQ Hardware, a global leader in the hardware industry, is facing challenges i
 ## **How to Use**
 
 1. **Explore the Data**:
-   - Access detailed insights in the `/data/` folder.
+   - Access detailed insights in the `/analysis-results/` folder.
    - Reports like *P&L for Markets* and *Customer Performance* provide actionable insights.
 
 
