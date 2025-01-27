@@ -41,14 +41,6 @@ AtliQ Hardware, a global leader in the hardware industry, is facing challenges i
   - **USA**: $10.2M below target.
   - **Canada**: $5.1M below target.
 
-### **4. Operational Insights**
-- **Capacity Utilization**:
-  - Overbooking observed during peak periods in premium room categories.
-- **Weekend vs. Weekday Performance**:
-  - **Weekend Occupancy**: 72.34%.
-  - **Weekday Occupancy**: 50.88%.
-
-
 ## **Recommendations**
 
 1. **Optimize Revenue**:
