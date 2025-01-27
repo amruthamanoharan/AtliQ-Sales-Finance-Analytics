@@ -7,8 +7,6 @@
 - [Recommendations](#recommendations)
 - [How to Use](#how-to-use)
 - [Technical Skills](#technical-skills)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## **Project Overview**
 AtliQ Hardware, a global leader in the hardware industry, is facing challenges in maintaining its growth trajectory and profitability. This project involved analyzing financial and market data to derive actionable insights and recommendations that can guide strategic decision-making.
@@ -83,13 +81,5 @@ AtliQ Hardware, a global leader in the hardware industry, is facing challenges i
   - Used Power Query and Power Pivot for data cleaning and modeling.
 - **DAX Calculations**:
   - Developed metrics like YoY growth and gross margins for advanced analysis.
-
-
-## **Acknowledgements**
-This project uses anonymized data provided for educational and research purposes. All data is presented for non-commercial use.
-
-
-## **License**
-This project is licensed under the MIT License. 
 
 
