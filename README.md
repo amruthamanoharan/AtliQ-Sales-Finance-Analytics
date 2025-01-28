@@ -51,11 +51,7 @@ AtliQ Hardware, a global leader in the hardware industry, is facing challenges i
    - Reinforce partnerships with high-growth customers like *Amazon* and *AtliQ eStore* through loyalty programs and customized pricing.
    - Target high-growth small and medium businesses (SMBs) with incentives.
 
-3. **Improve Operational Efficiency**:
-   - Implement demand forecasting to minimize overbooking.
-   - Develop weekday pricing strategies to increase occupancy rates.
-
-4. **Align Sales Targets**:
+3. **Align Sales Targets**:
    - Adjust sales targets based on predictive analytics and market-specific trends.
    - Create regional strategies to mitigate target gaps.
 
