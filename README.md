@@ -6,7 +6,6 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [How to Use](#how-to-use)
-- [Technical Skills](#technical-skills)
 
 ## **Project Overview**
 AtliQ Hardware, a global leader in the hardware industry, is facing challenges in maintaining its growth trajectory and profitability. This project involved analyzing financial and market data to derive actionable insights and recommendations that can guide strategic decision-making.
@@ -62,12 +61,5 @@ AtliQ Hardware, a global leader in the hardware industry, is facing challenges i
    - Access detailed insights in the `/analysis-results/` folder.
    - Reports like *P&L for Markets* and *Customer Performance* provide actionable insights.
 
-
-
-## **Technical Skills**
-- **Excel Mastery**:
-  - Used Power Query and Power Pivot for data cleaning and modeling.
-- **DAX Calculations**:
-  - Developed metrics like YoY growth and gross margins for advanced analysis.
 
 
